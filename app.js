@@ -2,6 +2,8 @@ const playerOne = document.getElementById('playOne');
 const playerTwo = document.getElementById('playTwo');
 const message = document.getElementById('header');
 
+
+//inspect off but don't work this code.....
 document.onkeydown = function(event){
     if (event.keycode == 123) {
         return false;
