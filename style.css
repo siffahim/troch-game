@@ -14,7 +14,6 @@ h2{
     font-family: 'Acme', sans-serif;
     font-size: 50px;
     letter-spacing: 2px;
-    cursor:not-allowed;
 }
 p{
     font-size: 2em;
@@ -33,7 +32,6 @@ img{
 }
 .dice{
     display: inline-block;
-    cursor:wait;
 }
 button{
     margin: 50px auto;
